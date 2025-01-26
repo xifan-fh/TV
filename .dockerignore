@@ -1,6 +1,12 @@
 dist
 build
-.github
-*.log
+**/*.log
 docs
-tkinter
+tkinter_ui
+**/*.md
+**/*.jpg
+**/*.png
+.git
+.github
+.gitignore
+.gitattributes
